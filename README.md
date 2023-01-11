@@ -24,7 +24,9 @@ In 2021 I decided it was time to take a step back from teaching to join in a new
 📚 Invested studying time 💻
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bymarcosleitejr&layout=compact&theme=radical)](https://github.com/Bymarcosleitejr/github-readme-stats)
+<a href="https://github.com/natainditama/natainditama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bymarcosleitejr&langs_count=3&theme=radical" alt="Top languanges" />
+</a>
 
 <br></br>
 </h4>
