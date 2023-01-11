@@ -1,6 +1,4 @@
-<h1 align="center"> Welcome to my crib, dawg! :grin:</h1>
-
-<img align="right" height:800px src="https://raw.githubusercontent.com/gist/Bymarcosleitejr/1ade85ecb9f497fd06b95dd56f876ae3/raw/cd3c0985108fd830fae2befa2586e6b540565f3c/githubcard.svg">
+<img align="center" wight:100em src="">
 
 <p> My name is Marcos Leite Jr, I'm a 31 yo brazilian programming student. I'm graduated in History and nowadays I'm majoring in information systems.
 <br></br>
