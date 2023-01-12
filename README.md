@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/Bymarcosleitejr/Bymarcosleitejr/blob/main/Perfil.png?raw=true">
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/Bymarcosleitejr/e11fccc9325c0ed70d3c106a8a641bb8/raw/b30e36c74b62e9812706f7d7674df8b979c5641a/Perfil%20com%20bras%C3%A3o.svg">
 
-<h1> Marcos Leite Jr.<br></h1>
+<h1 align="center"> Marcos Leite Jr.<br></h1>
  
 <p> My name is Marcos Leite Jr, I'm a 31 yo brazilian programming student. I'm graduated in History and nowadays I'm majoring in information systems.
 <br></br>
@@ -20,14 +20,5 @@ In 2021 I decided it was time to take a step back from teaching to join in a new
 </a>
 </p>
 
-<h4 align="center"> 
-📚 Invested studying time 💻
-<br></br>
-
-<a href="https://github.com/Bymarcosleitejr?tab=repositories" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bymarcosleitejr&langs_count=3&theme=gotham"/>
-
-<br></br>
-</h4>
 
 
