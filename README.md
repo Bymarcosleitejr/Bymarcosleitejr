@@ -1,5 +1,7 @@
-<img align="center" wight:100em src="">
+<img align="right" src="https://github.com/Bymarcosleitejr/Bymarcosleitejr/blob/main/Perfil.png?raw=true">
 
+<h1> Marcos Leite Jr.<br></h1>
+ 
 <p> My name is Marcos Leite Jr, I'm a 31 yo brazilian programming student. I'm graduated in History and nowadays I'm majoring in information systems.
 <br></br>
 In 2021 I decided it was time to take a step back from teaching to join in a new adventure in the Estacio de Sá's University. And was in 2022 when I finally could join the TI area as a suport TI trainee at MEDGrupo.
