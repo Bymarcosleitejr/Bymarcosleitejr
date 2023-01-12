@@ -6,7 +6,7 @@
 <br></br>
 In 2021 I decided it was time to take a step back from teaching to join in a new adventure in the Estacio de Sá's University. And was in 2022 when I finally could join the TI area as a suport TI trainee at MEDGrupo.
 <br></br>
-"This part of my life, this little part, is called happiness" (Smith, Will - The Pursuit of Happyness).
+<i>"This part of my life, this little part, is called happiness"</i> (Smith, Will - The Pursuit of Happyness).
 <br></br>  
 <p align="center">  
 <a href="https://twitter.com/Bymarcosleitejr" target="_blank">
